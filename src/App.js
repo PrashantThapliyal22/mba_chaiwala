@@ -1,5 +1,11 @@
+import IntroVideo from "./components/IntroVideo";
+import "./styles/App.scss";
 function App() {
-  return <>gay here</>;
+  return (
+    <>
+      <IntroVideo />
+    </>
+  );
 }
 
 export default App;
